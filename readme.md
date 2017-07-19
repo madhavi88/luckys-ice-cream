@@ -1,1 +1,1 @@
-This is a ice cream store website. I worked in this store
+This is a ice cream store website. I worked in this store for the past 4 years. I enjoyed a lot the working there. so i decided to do the project on the store.
