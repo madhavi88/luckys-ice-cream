@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Sign-In </title>
+   
+
+    <!-- Insert Style Sheet Here-->
+     <link rel="stylesheet" type="text/css"  href="css/simple-grid.css"> 
+     <link rel="stylesheet" type="text/css"  href="home.css">
+
+    
+   
+    <!-- Insert Google Fonts Here -->
+
+</head>
+
+
+<body>
+
+
+<header>
+    <!-- Header -->
+    <div class="wrap">
+    <h1><img class="img-circle" src="cow pic.png"> Luckys Ice Cream <img class="img-circle" src="cow pic.png"></h1>
+
+ <div class="container">
+      <div class="row">
+        <div class="col-4">
+            
+             <!--nav links-->  
+            
+              <nav class="main-nav">
+              
+                   <ul>    
+                       <li class="home"><a href="home.html">Home</a></li>
+                       <li class="flavors"><a href="flavor.html">Flavors</a></li>
+                      <li class="create"><a href="create an account1.html">Create an account</a></li>
+	                  <li class="sign in"><a href="sign in1.html">Sign In</a></li>
+                   </ul>
+            </nav>
+        </div>
+    
+  
+        
+    <div class="col-4">
+                   <!---sign in content-->
+                   <!-- form starts here-->
+
+   
+        <form action="sign in.html" method="post" name="theForm">
+    
+                 <h2>Sign In</h2>
+         <fieldset>
+    
+                    <label for="mail"><b>Email address</b></label>
+                    <input type="text" id="mail" name="user_mail"><br>
+         
+                    <label for="password"><b>Password</b></label>
+                    <input type="password" id="psw" name="user_password"><br><br>
+
+                   <input type="checkbox" id="check" name="user_check">
+                   <label for ="remember">Remember Me</lable><br><br>
+           
+                   <p> Password is case sencitive.</p>
+
+                   <button onclick="signIn()">Sign In</button>
+
+               <!--<input type="submit" value="Sign In">-->
+      </fieldset>
+   </form>
+    </div>
+ </div>
+</div>
+
+</header>
+ <!-- /Header -->
+
+   
+    
+    <!-- Footer -->
+    
+    <footer>
+
+        <a href="http://twitter.com/Luckys Ice Cream"><img src="twitter pic.png" alt="Twitter Logo" class="social-icon"></a>
+        <a href="http://facebook.com/Luckys Ice Cream"><img src="facebook logo pic.png" alt="Facebook Logo" class="social-icon"></a>
+        <p>&copy; 2017Luckys Ice Cream.</p>
+    </footer>
+    <!-- /Footer -->
+
+
+    <!-- Insert JavaScript Here -->
+<script src="app.js"></script>
+</body>
+</html>
