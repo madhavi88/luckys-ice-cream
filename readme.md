@@ -1,1 +1,2 @@
-This is a ice cream store website.
+The project that I built is all about Ice Cream desert. Who doesn't like to eat Ice Cream in this summer.
+I tried to implement all the techniques that I learnt during my 12 weeks session of code louisville. I know this is just a start, but I am willing to learn more and adopt all the new technology so that my website could show the results of that. As I progress more I will keep updating this website frequently to show my skills. The website is about the Ice Cream and different flavors we offer for customers. My goal is to make my website with online purchase and get your favourite Ice Cream delivered at your door for every one to enjoy!!! I would greatly appreciate if you take a momemt to leave your comments and suggestions ... !!!
